@@ -59,3 +59,8 @@
 - [ ] Write tests for your repository methods
   - Use rom-factory to create records
   - Write tests to assert that repository methods return appropriate records
+
+### Exec
+
+- make sure you have installed bundles 'bundle install', install bundler if u don't have it. 'gem install bundler'
+- run by 'bundle exec ruby run.rb'
